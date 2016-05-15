@@ -1,0 +1,2 @@
+# arrays
+javascript arrays practice
